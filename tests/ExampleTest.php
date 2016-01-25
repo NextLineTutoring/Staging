@@ -1,5 +1,7 @@
 <?php
 
+echo "Hello is there anybody in there?  Just nod if you can hear me.";
+
 class ExampleTest extends TestCase {
 
 	/**
