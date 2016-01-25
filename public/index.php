@@ -55,3 +55,5 @@ $response = $kernel->handle(
 $response->send();
 
 $kernel->terminate($request, $response);
+
+echo "Hello is there anybody in there?  Just nod if you can hear me.";
